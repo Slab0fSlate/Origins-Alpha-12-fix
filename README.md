@@ -1,6 +1,8 @@
 # Origins-Alpha-12-fix
 A cobbled together workaround for a bug in 1.13 alpha.12 of the Origins mod, works on the base origins only.
 
+yes this is a datapack, put it in like its any other origin
+
 -----
 
 in alpha.12, theres an issue where all of an origins attribute modifiers stop working after the player dies. so things like merlings swim speed, anyone meant to have less health, avians extra speed, it all just stops working.
